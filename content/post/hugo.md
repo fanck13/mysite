@@ -17,3 +17,7 @@ draft: true
 * 启动服务
   `hugo server --theme=hugo-future-imperfect-slim --buildDrafts --watch`
   `--watch`:修改自动更新
+
+* 部署
+  `hugo --theme=hyde --baseUrl="https://fanck13.github.io/"`
+  
