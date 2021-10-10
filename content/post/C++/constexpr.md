@@ -1,3 +1,9 @@
+---
+title: "constexpr VS const"
+date: 2020-08-29T17:43:10+08:00
+draft: false
+---
+
 # `constexpr` VS `const`
 
 `constexpr`是C++11中新增的一个说明符，指明函数或者变量可以用在常量表达式中。有一点值得提一下，这个说明符的名字起得是不怎么样。其含义强调的是编译期求值，跟`const`的关系不大，但是很多人都会被迷惑。

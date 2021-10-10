@@ -1,3 +1,9 @@
+---
+title: "lambda 表达式"
+date: 2020-08-29T17:43:10+08:00
+draft: true
+---
+
 # lambda 表达式
 
 lambda 表达式 或者 lambda 函数：匿名函数对象表达式。

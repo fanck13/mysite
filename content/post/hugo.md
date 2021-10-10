@@ -15,7 +15,7 @@ draft: true
   ```
 
 * 启动服务
-  `hugo server --theme=hugo-future-imperfect-slim --buildDrafts --watch`
+  `hugo server --theme=hyde --buildDrafts --watch`
   `--watch`:修改自动更新
 
 * 部署
