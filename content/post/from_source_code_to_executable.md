@@ -1,7 +1,7 @@
 ---
 title: "From_source_code_to_executable"
 date: 2020-08-30T13:47:43+08:00
-draft: true
+draft: false
 ---
 
 # 从源代码到可执行文件
