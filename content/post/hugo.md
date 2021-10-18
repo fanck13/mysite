@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2020-08-09T17:42:34+08:00
-draft: true
+draft: false
 ---
 
 * 添加文件
