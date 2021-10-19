@@ -15,9 +15,9 @@ draft: false
   ```
 
 * 启动服务
-  `hugo server --theme=hyde --buildDrafts --watch`
+  `hugo server --theme=binario --buildDrafts --watch`
   `--watch`:修改自动更新
 
 * 部署
-  `hugo --theme=hyde --baseUrl="https://fanck13.github.io/"`
+  `hugo --theme=binario --baseUrl="https://fanck13.github.io/"`
 
