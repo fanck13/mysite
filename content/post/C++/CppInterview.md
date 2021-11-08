@@ -121,32 +121,18 @@ As Bjarne himself explains in his [C++ Style and Technique FAQ](https://www.stro
   }
   ```
 
-* `main`函数不能进行递归调用。
+  * `main`函数不能进行递归调用。
+  * 
+### 5.模板
 
-* 
+![](..\..\image\cpp_function_template.png)
 
-* 
 
-* 
 
-* 
+![](..\..\image\cpp_class_template.png)
 
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
+1. 模板定义了如何生成一系列函数，这些函数有相似的行为。
+2. `extern template` 
+3. 特化和函数重载之间存在冲突
 
   
